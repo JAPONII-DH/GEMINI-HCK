@@ -35,4 +35,4 @@ python3 gemini_master.py
 * RTL Arabic Fix: Perfect Arabic rendering.
 
 ---
-**👨‍💻 Dev: JAPONI (Oudjelida, Tlemcen)**
+**👨‍💻 Dev: JAPONI (ALEGRIA)**
